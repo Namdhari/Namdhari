@@ -2,7 +2,6 @@
 - 👀 I’m interested in Geometry processing and its application in medical domain.
 - 🌱 I’m currently learning both of the above subjects.
 - 💞️ I’m looking to collaborate on the same
-- 📫 You can reach me at: singh.sukhraj@gmail.com
 
 <!---
 Namdhari/Namdhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
